@@ -1,0 +1,1 @@
+[{"id":1,"nama":"Rudi","alamat":"Jl. Sudirman No. 123","usia":25,"jenis_kelamin":"Laki"},{"id":2,"nama":"Rudi","alamat":"Jl. Sudirman No. 123","usia":25,"jenis_kelamin":"Laki"},{"id":3,"nama":"Rudi","alamat":"Jl. Sudirman No. 123","usia":25,"jenis_kelamin":"Laki"}]
